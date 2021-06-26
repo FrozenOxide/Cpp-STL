@@ -1,0 +1,9 @@
+{
+    "clang-format.executable": "C:\\Program Files\\LLVM\\bin\\clang-format.exe",
+    "editor.formatOnSave": true,
+    "clang-format.language.cpp.enable": true,
+    "c-cpp-compile-run.cpp-compiler": "C:\\MinGW\\bin\\g++.exe",
+    "c-cpp-compile-run.c-compiler": "C:\\MinGW\\bin\\gcc.exe",
+    "files.autoSave": "afterDelay",
+    "clang-format.assumeFilename": ".clang-format",
+}
